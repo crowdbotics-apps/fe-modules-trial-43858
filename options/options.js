@@ -1,10 +1,11 @@
 export const globalOptions = {
-  name: "fe-modules-trial-43858",
-  url: "https://fe-modules-trial-43858.botics.co",
-  api: "https://fe-modules-trial-43858.botics.co/api/v1",
-  screenOptions: {
-    headerShown: false
-  }
+  "name": "fe-modules-trial-43858",
+  "url": "https://fe-modules-trial-43858.botics.co",
+  "api": "https://fe-modules-trial-43858.botics.co/api/v1",
+  "screenOptions": {
+    "headerShown": false
+  },
+  "initialRoute": "welcome"
 };
 export const modulesOptions = {
   "@modules/app-menu": {
