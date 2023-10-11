@@ -1457,6 +1457,9 @@
 "@modules/app-menu@file:./modules/app-menu":
   version "1.0.0"
 
+"@modules/audio-player@file:./modules/audio-player":
+  version "1.0.0"
+
 "@modules/audio-player@file:./modules/audio-player/":
   version "1.0.0"
 
