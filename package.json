@@ -15,6 +15,7 @@
     "@babel/plugin-proposal-export-namespace-from": "^7.18.9",
     "@babel/polyfill": "^7.12.1",
     "@modules/app-menu": "file:./modules/app-menu/",
+    "@modules/audio-player": "file:./modules/audio-player/",
     "@react-native-camera-roll/camera-roll": "5.0.2",
     "@react-native-community/checkbox": "0.5.10",
     "@react-native-masked-view/masked-view": "^0.2.9",
@@ -28,6 +29,7 @@
     "react": "18.2.0",
     "react-dom": "^18.2.0",
     "react-native": "0.71.7",
+    "react-native-audio-recorder-player": "3.5.3",
     "react-native-camera": "4.2.1",
     "react-native-dotenv": "^3.4.8",
     "react-native-elements": "^3.4.3",
@@ -48,13 +50,15 @@
     "react-native-responsive-screen": "^1.4.2",
     "react-native-safe-area-context": "^4.5.2",
     "react-native-screens": "3.20.0",
+    "react-native-slider": "^0.11.0",
     "react-native-tab-view": "3.1.1",
     "react-native-touch-id": "4.4.1",
     "react-native-vector-icons": "^9.2.0",
     "react-native-web": "^0.18.10",
     "react-native-webview": "11.23.0",
     "react-redux": "^8.0.5",
-    "redux": "^4.2.1"
+    "redux": "^4.2.1",
+    "rn-fetch-blob": "0.12.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
