@@ -15,6 +15,7 @@
     "@babel/plugin-proposal-export-namespace-from": "^7.18.9",
     "@babel/polyfill": "^7.12.1",
     "@modules/app-menu": "file:./modules/app-menu/",
+    "@modules/typeform-webhook": "file:./modules/typeform-webhook/",
     "@react-native-camera-roll/camera-roll": "5.0.2",
     "@react-native-community/checkbox": "0.5.10",
     "@react-native-community/geolocation": "2.1.0",
@@ -56,7 +57,7 @@
     "react-native-vector-icons": "^9.2.0",
     "react-native-view-pdf": "0.14.0",
     "react-native-web": "^0.18.10",
-    "react-native-webview": "11.23.0",
+    "react-native-webview": "^11.17.0",
     "react-redux": "^8.0.5",
     "redux": "^4.2.1",
     "rn-fetch-blob": "0.12.0"
